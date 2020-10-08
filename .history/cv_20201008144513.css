@@ -1,0 +1,58 @@
+
+    * {
+        font-family: Avenir, sans-serif;
+        border: 2px solid rgb(71, 69, 69);
+        border-radius: 12px;
+         margin: 2px; 
+
+    }
+
+    body {
+        background-color: azure;
+
+
+    }
+    section {
+        margin-top: 10px;
+        
+        background-color: aquamarine;
+
+
+    }
+    div {
+        margin: 15px auto;
+        width:80% ;
+        height: 100px;
+        background-color: chocolate;
+    }
+    ul {
+        text-align: center;
+    }
+
+    footer,
+    .header{
+        background-color: gray;
+    }
+
+    .footer2,
+    .footer1 {
+        height: 45px;
+        width: 45px;
+        float: left;
+    } 
+    .footer1{
+        margin-left: 30%;
+        margin-right: 10%;
+    }
+  
+    .footer3 {
+        clear: both;
+        height: 50px;
+    }
+    .img {
+        width:120px;
+        height: 120px;
+        text-align: left;
+    }
+
+

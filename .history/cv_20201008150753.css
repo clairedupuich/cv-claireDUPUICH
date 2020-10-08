@@ -14,7 +14,7 @@
     }
     section {
         margin-top: 10px;
-        padding: 3px;
+        padding: 3px auto;
         background-color: rgb(223, 204, 235);
 
 
@@ -33,17 +33,12 @@
         list-style: none;
         align-items: flex-end;
         margin-right: 10%;
-        color: yellow;
     }  
     li {
         margin-left: 15px;
     } 
+
     footer{
-        padding-left: 3%;
-        padding-right: 3%;
-    }
-    footer > div{
-        width: 20%;
 
     }
     footer,

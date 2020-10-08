@@ -1,7 +1,7 @@
 
     * {
         font-family: Avenir, sans-serif;
-       /*  border: 2px solid rgb(71, 69, 69); */
+        border: 2px solid rgb(71, 69, 69);
         border-radius: 12px;
          margin: 2px; 
 
@@ -14,8 +14,8 @@
     }
     section {
         margin-top: 10px;
-        padding: 3px;
-        background-color: rgb(223, 204, 235);
+        
+        background-color: aquamarine;
 
 
     }
@@ -23,27 +23,13 @@
         margin: 15px auto;
         width:80% ;
         height: 100px;
-        background-color: rgb(155, 184, 185);
+        background-color: chocolate;
     }
     ul {
         text-align: center;
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-        list-style: none;
-        align-items: flex-end;
-        margin-right: 10%;
-        color: yellow;
-    }  
-    li {
-        margin-left: 15px;
-    } 
-    footer{
-        padding-left: 3%;
-        padding-right: 3%;
     }
-    footer > div{
-        width: 20%;
+
+    footer{
 
     }
     footer,
@@ -60,7 +46,7 @@
     .img {
         width:170px;
         height: 170px;
-        margin-left: 10%;
+        margin-left: 15px;
     }
 
 
