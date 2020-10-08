@@ -1,0 +1,36 @@
+
+@media screen and (max-width: 768px)
+{
+    * {
+        font-family: Avenir, sans-serif;
+        border: 2px solid black;
+        border-radius: 26px;
+
+    }
+    
+    body {
+        background-color: azure;
+        margin: 0 5px;
+    }
+    section {
+        margin-top: 10px;
+        padding: 5px auto;
+        width: 100%;
+        height: 500px;
+        background-color: aquamarine;
+       
+
+    }
+    
+    .logo {
+        width:120px;
+        height: 120px;
+        boder
+    }
+    
+}
+
+
+
+
+

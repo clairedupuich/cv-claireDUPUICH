@@ -36,20 +36,13 @@
         background-color: gray;
     }
    
-    .footer2,
+    /* .footer2,
     .footer1 {
         height: 45px;
         width: 45px;
         float: left;
-        
-    } 
-    .footer1{
-        margin-left: 30%;
-        margin-right: 10%;
-    }
-    
+    } */
     .footer3 {
-        clear: both;
         height: 50px;
     }
     .img {
