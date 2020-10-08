@@ -1,6 +1,6 @@
 * {
     font-family: Avenir, sans-serif;
-    border: 1px solid rgb(230, 230, 230);  
+    border: 2px solid rgb(230, 230, 230);
     border-radius: 16px;
     margin: 2px; 
 
@@ -166,13 +166,13 @@
     .footer1,
     .footer2,
     .footer3 {
-        height: 95px;
+        height: 165px;
         width: 20%;
         float: left;
-        margin-left: 3%;
+        
     } 
-    footer{
-        padding-left: 17%;
+    .footer1{
+        
     }
     
     
