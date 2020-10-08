@@ -1,0 +1,68 @@
+
+@media screen and (max-width: 768px)
+{
+    * {
+        font-family: Avenir, sans-serif;
+        border: 2px solid rgb(71, 69, 69);
+        border-radius: 16px;
+         margin: 2px; 
+
+    }
+    
+    body {
+        background-color: azure;
+        
+
+    }
+    section {
+        margin-top: 10px;
+        width: 95%;
+        background-color: aquamarine;
+       
+
+    }
+    div {
+        margin: 5px auto;
+        width:80% ;
+        height: 100px;
+        background-color: chocolate;
+    }
+    ul {
+        text-align: center;
+    }
+   
+    footer,
+    .header{
+        background-color: gray;
+    }
+   
+    .footer2,
+    .footer1 {
+        height: 45px;
+        width: 45px;
+        float: left;
+        
+    } 
+    .footer1{
+        margin-left: 175px;
+    }
+    .clear {
+        clear: both;
+        width: 0;
+        height: 0;
+    }
+    .footer3 {
+        height: 50px;
+    }
+    .img {
+        width:120px;
+        height: 120px;
+        text-align: left;
+    }
+    
+}
+
+
+
+
+

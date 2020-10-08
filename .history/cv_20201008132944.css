@@ -1,0 +1,52 @@
+
+@media screen and (max-width: 768px)
+{
+    * {
+        font-family: Avenir, sans-serif;
+        border: 2px solid rgb(71, 69, 69);
+        border-radius: 26px;
+         margin: 2px; 
+
+    }
+    
+    body {
+        background-color: azure;
+        
+
+    }
+    section {
+        margin-top: 10px;
+        width: 95%;
+        background-color: aquamarine;
+       
+
+    }
+    div {
+        margin: 5px auto;
+        width:80% ;
+        height: 100px;
+        background-color: chocolate;
+    }
+    ul {
+        text-align: center;
+    }
+   
+    footer,
+    .header{
+        background-color: gray;
+    }
+    .footer1 {
+        height: 50px;
+    }
+    .img {
+        width:120px;
+        height: 120px;
+        text-align: left;
+    }
+    
+}
+
+
+
+
+
