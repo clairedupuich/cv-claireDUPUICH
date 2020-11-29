@@ -11,8 +11,6 @@ section {
     width: 95%;
     background-color: aquamarine;
     border: 1px solid red; 
-}
-
 @media screen and (max-width: 768px)
 {
     * {
